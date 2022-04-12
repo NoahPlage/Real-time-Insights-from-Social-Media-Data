@@ -24,3 +24,6 @@ _Warning: Some of the tweets in the Twitter datasets contain explicit language._
 8. A table that speaks a 1000 words
 9. Analyzing used languages
 10. Final thoughts
+## Some visualisations from the project
+![image](https://user-images.githubusercontent.com/102339940/162905695-baf0f107-4896-4170-afb5-5e7fe900ec85.png)
+![image](https://user-images.githubusercontent.com/102339940/162905709-1ada0586-8429-4950-b089-97459c3b25e5.png)
